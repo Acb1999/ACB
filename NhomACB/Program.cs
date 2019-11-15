@@ -11,6 +11,7 @@ namespace NhomACB
         static void Main(string[] args)
         {
             //Bai tap 2 - nhom ACB
+            //khoi tao project
         }
     }
 }
